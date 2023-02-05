@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../nft-preview-card-component-main/nft-preview-card-component-main"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "product-preview-card-component-main"
+  }
+}
